@@ -1,2 +1,2 @@
-# CodeAlpha
-A 3 month Web-development Intership
+# Pinnacle Labs
+An 1 month Web-development Intership
